@@ -103,9 +103,6 @@ Implementing SRGAN for image super-resolution provides significant improvements 
 
 - [SRGAN Paper](https://arxiv.org/abs/1609.04802)
 - [Dataset Source](https://your-dataset-link.com)
-
-For further details, please refer to the project documentation.
-
 ---
 
-This README provides a comprehensive guide to understanding, setting up, and running the image super-resolution model using SRGAN. Feel free to add more details as needed.
+
